@@ -30,15 +30,11 @@
 <br />
 <br />
 
----
----
-
----
 
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Uber's Github Stats" src="https://github-readme-stats.uberdevo.vercel.app/api?username=UberDevo&count_private=true&show_icons=true&hide_border=true" />
+  <img align="left" alt="Uber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UberDevo&count_private=true&show_icons=true&hide_border=true" />
 
 </details>
 

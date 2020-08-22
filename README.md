@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love to Code and well smoke weed!!
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/stefanevers932?si=kCDViy7qRHWb-xTXhRJjwQ)
+[<img src="https://spotify-readme-tau.vercel.app/api/spotify-playing" alt="Liam's Spotify Playing" width="350" />](https://open.spotify.com/user/stefanevers932)
 
 ### Connect with me:
 

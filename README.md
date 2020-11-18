@@ -39,4 +39,4 @@
 </details>
 
 [twitter]: https://twitter.com/hcfuno
-[webdevplaylist]:
+[webdevplaylist]: https://twitter.com/hcfuno

@@ -1,6 +1,6 @@
 ### Hi there, I'm Liam aka Uber and this is my little introduction to me👋
 
-- 🔭 I’m currently working on Eden.rip and HcPython
+- 🔭 I’m currently working on ParityMC and Valent
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with developers!!
 - 🥅 2020 Goals: Contribute more to Open Source projects

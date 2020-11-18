@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="OneUber | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="hcfuno | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 <br />
@@ -38,8 +38,4 @@
 
 </details>
 
-[twitter]: https://twitter.com/oneUber
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[webdevplaylist]: https://www.google.com
+[twitter]: https://twitter.com/hcfuno

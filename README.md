@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Valent.GG
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Get some resources on mcm
 - ⚡ Fun fact: I love to Code and well smoke weed!!
 
 ### Spotify Playing 🎧

@@ -1,6 +1,6 @@
 ### Hi there, I'm Liam aka Uber and this is my little introduction to me👋
 
-- 🔭 I’m currently working on Valent.GG
+- 🔭 I’m currently working on Rejects
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Get some resources on mcm
 - ⚡ Fun fact: I love to Code and well smoke weed!!
